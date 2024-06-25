@@ -1,0 +1,15 @@
+/*
+ * Copyright 2022 Huawei France Technologies SASU
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+/dts-v1/;
+
+#include <1_custom/my_soc.dtsi>
+
+/ {
+	model = "my new board 2";
+	compatible = "1_custom,my_board_2";
+};
+
