@@ -1,0 +1,12 @@
+/dts-v1/;
+#include <1_custom/my_soc.dtsi>
+
+/ {
+		model = "creatin for ti board";
+		compatible = "1_custom,my_board";
+		
+		chosen {
+			
+		};
+
+};
