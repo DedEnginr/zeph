@@ -1,0 +1,5 @@
+
+
+
+config BOARD_MY_BOARD
+	select SOC_MY_SOC

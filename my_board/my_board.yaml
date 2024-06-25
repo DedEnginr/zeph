@@ -1,0 +1,8 @@
+identifier: my_board
+name: my own board
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+vendor: 1_custom
